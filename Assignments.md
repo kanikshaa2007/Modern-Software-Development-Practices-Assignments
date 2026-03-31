@@ -3,44 +3,44 @@
 # 1 Certification Requirement
 > - AI Fluency for Students
 >
-> Kindly submit the verification link here 
+> http://verify.skilljar.com/c/tm45fmjqnm94 
 > - Introduction to Agent Skills
 >
-> Kindly submit the verification link here
+> http://verify.skilljar.com/c/3ijxedbfeiqk
 > 
 > Kindly upload the certifications PDF in Google Drive Link
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
 >
-> - Kindly submit the GitHub Repo URL
+> - https://github.com/kanikshaa2007/AIML-One-Credit-
 >
-> - Kindly submit the Vercel Deployment URL
+> - https://vercel.com/kanikshaar-2124s-projects/aiml-1credit-kanikshaa
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> -  https://kanikshaa2007.github.io/AIML-One-Credit-/
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> - https://github.com/kanikshaa2007/game-for-kids
 >
-> - Kindly submit the Live Application URL (Domain)
+> - https://game-for-kids-mu.vercel.app/
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - https://kanikshaa2007.github.io/game-for-kids/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> https://www.linkedin.com/posts/kanikshaa-r-9128313b4_aijourney-moderndevelopment-buildwithai-ugcPost-7444810510623059968-i67T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGU23t4BkEiSZ5gUTHpRTyZ8DpBohL3rha8
 
 ## For Second Year Buddies
 
 # 5 Certification Requirement
 > - Introduction to Model Context Protocol
 >
-> Kindly submit the verification link here 
+> http://verify.skilljar.com/c/ptgsubdu5ccs
 > 
 > Kindly upload the certifications PDF in Google Drive Link
 
 # 6 GitHub Profile README
-> Kindly submit your GitHub Profile README URL
+> https://github.com/kanikshaa2007
